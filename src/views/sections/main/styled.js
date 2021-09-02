@@ -1,9 +1,11 @@
 import styled from "styled-components";
+import Background from '../../../assets/Banner/background.jpg'
 
 export const Main = styled.div`
 `
 export const MainBanner = styled.div`
-	background-color: brown;
+	background: url(${Background});
+	background-size: cover;
 `
 
 export const Container = styled.div`

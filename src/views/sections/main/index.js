@@ -23,7 +23,7 @@ function Main(){
 						<S.MainHighlightsList>
 							<S.HighlightsItem>
 								<S.HighlightsImage src={semente} alt=""/>
-								<S.HighlightsText>Plantadas com carinho</S.HighlightsText>
+								<S.HighlightsText>Cultivadas com carinho</S.HighlightsText>
 							</S.HighlightsItem>
 							<S.HighlightsItem>
 								<S.HighlightsImage src={embalagem} alt=""/>

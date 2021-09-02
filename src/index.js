@@ -3,6 +3,8 @@ import ReactDOM from 'react-dom';
 import './normalize.css';
 import './index.css';
 import App from './App';
+import 'leaflet/dist/leaflet'
+
 
 ReactDOM.render(
   <React.StrictMode>
